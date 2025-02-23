@@ -1,2 +1,4 @@
 # spidey-cursor
-https://dalisha2005.github.io/spidey-cursor/
+created a pen on codepen
+https://codepen.io/pen?template=LEYZLJv
+
